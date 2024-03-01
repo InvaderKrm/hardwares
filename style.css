@@ -16,7 +16,7 @@ header {
 h1 {
     font-family: 'aero';
     font-size: 70px;
-    margin-left: 400px;
+    margin-left: 34%;
     color: white;
 }
 main {
@@ -25,10 +25,19 @@ main {
     background-color: rgb(198, 198, 198);
 }
 main img {
-    width: 15%;
+    width: 17%;
+    margin-left: 20px;
+    border-radius: 10px;
     float: left;
 }
 main p {
+    float: left;
     text-align: left;
-    width:80%;
+    width:30%;
+    margin-left: 20px;
+}
+main h2 {
+    padding-top: 30px;
+    margin-left: 20px;
+    margin-bottom: 10px;
 }
