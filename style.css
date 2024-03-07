@@ -60,9 +60,6 @@ h3 {
     padding-top: 1%;
     margin-bottom: 10px;
 
-.lista{
- color: rgb(60, 60, 88);
-}
 
 }
 a {
@@ -81,12 +78,12 @@ p {
     text-indent: 2em;
     hyphens: auto;
     text-align: justify;
-    color: rgb(36, 38, 58)
+    color: rgb(36, 38, 58);
 }
 ul {
     font-family: 'roboticshv';
     margin-left: 120px;
-}
+    color: rgb(36, 38, 58);
 main {
     width: 98%;
     height: 100%;
